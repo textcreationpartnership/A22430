@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King a proclamation for the better making of saltpeter within this kingdome.</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1627</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22430</idno>
+            <idno type="STC">STC 8848</idno>
+            <idno type="STC">ESTC S3547</idno>
+            <idno type="EEBO-CITATION">33150435</idno>
+            <idno type="OCLC">ocm 33150435</idno>
+            <idno type="VID">28606</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22430)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28606)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1876:81)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King a proclamation for the better making of saltpeter within this kingdome.</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>3 leaves.   </extent>
+               <publicationStmt>
+                  <publisher>By Bonham Norton and Iohn Bill, Printers  to the Kings most Excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>M.DC.XXVI [1627]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Giuen at Our Court at Whitehall the second day of Ianuarie, in the second yeere of Our Reigne of Great Britain, France, and Ireland.</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Saltpeter industry --  England --  Early works to 1800.</term>
+               <term>Nitrogen industries --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:28606:1"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <p>HONI SOI QVI MAL Y PENSE</p>
+               </figure>
+               <g ref="char:leaf">❧</g> By the King.</head>
+            <head type="sub">
+               <g ref="char:leaf">❧</g> A Proclamation for the better making of Saltpeter within this Kingdome.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">F</seg>Oraſmuch as the making of Saltpeter and Gunpowder, within</hi> Our owne Realmes and Dominions, is a great ſafety and benefite to Vs and Our Subiects, aſſuring Vs of a certaine and ſufficient pro<g ref="char:EOLhyphen"/>uiſion thereof for Our and their defence, whereas the prouiding thereof from forraine parts, cannot but bee full of difficulty and danger, depen<g ref="char:EOLhyphen"/>ding vpon the pleaſure of other Princes and States, and when Our neceſſitie ſhall moſt require the ſame, Wee ſhall be ſure to purchaſe ſo pretious a Commoditie, at vnreaſonable Rates, and bee inforced to pay ready Moneys, to be tranſported from hence, for the ſame, to the diminution of the Trea<g ref="char:EOLhyphen"/>ſure of Our Realmes: And if none of theſe inconueniences ſhould happen, yet the bringing thereof by Sea, from forraine parts, is full of perill and hazzard, being ſubiect to the many ca<g ref="char:EOLhyphen"/>ſualties of Winde and Weather, the dangers of Shipwracke, and the interception of Pirates and enemies, and theſe may happen in times of our greateſt neceſſitie and want thereof.</p>
+            <p>And whereas the practiſe and making of Saltpeter heretofore within this Kingdome, was, and is ſuch, as tendeth much to the trouble, and grieuance of Our louing Subiects, by digging vp of their dwelling Houſes, Douehouſes, and other out-houſes, and alſo to their great charge, by remouing of their Liquors, Tubbes, and other Inſtruments, by cariages from place to place; Of which, although many complaints haue beene made, and often renewed, and all fit courſes haue been taken by Vs and Our Priuie Counſell, to eaſe Our Subiects of this trouble and charge, yet in a caſe of ſuch ineuitable neceſſitie, the ſame cannot yet be totally taken away.</p>
+            <p>And whereas ſithence the firſt making of Saltpeter within this Realme, vntill this preſent, notwithſtanding all the trouble and charge aforeſayd, yet the Vndertakers of the ſayd Workes, could neuer heretofore furniſh this Realme, with a third part of the Saltpeter requiſite for the ſeruice of Our owne Dominions, eſpecially in times of Warre, and greateſt neceſſity thereof, But Wee, and Our Predeceſſors and Subiects, haue beene forced for their neceſſary vſe, to ſeeke ſupplies thereof from forraine parts, which hath the rather happened, for that many to a<g ref="char:EOLhyphen"/>uoyd the trouble of digging vp their floores, haue purpoſely preuented the growth thereof, and diuers of the Saltpeter men, haue corruptly made a practiſe, to take Compoſition money of di<g ref="char:EOLhyphen"/>uers, to forbeare digging, or to execute their Commiſſions, which their partiall courſe of procee<g ref="char:EOLhyphen"/>ding,
+<pb facs="tcp:28606:2"/>hath been very offenſiue to many of Our good Subiects, and if now the Saltpeter-men ſhould continue in their accuſtomed courſe of working, &amp; ſhould ſtriue to prouide ſo great quantitie of Saltpeter within theſe our Realmes, for a few yeeres together, as the neceſſitie of the preſent times require, they would ſo impoueriſh the earth, fit for that purpoſe, that within a ſhort time, We ſhould bee vtterly deſtitute of that ineſtimable Treaſure, there being no artificiall meanes vſed for the inriching of the Earth to this vſe, the Earth of itſelfe, by that which caſually happeneth, not being able to engender that matter whereof Saltpeter can be extracted in many yeeres.</p>
+            <p>And whereas for the redreſſe of theſe many inconueniences and grieuances, Sir <hi>Iohn Brooke</hi> knight, and <hi>Thomas Ruſſell</hi> Eſquire, haue humbly offered their ſeruice vnto vs, and did vndertake, both to vs, and to the Lords Spirituall and Temporall, aſſembled in the late meeting in Parlia<g ref="char:EOLhyphen"/>ment, by their induſtry and charge, to make yeerely ſuch quantities of Saltpeter, and of ſuch good condition, as ſhould be ſufficient both for Our owne and Our Subiects vſes, with ſupply alſo of Our forreine neighbours in amity with Vs, if occaſion ſhould ſo require, and that without digging any of Our Subiects houſes, or out-houſes of any kinde, or charging them at all with cariages, as heretofore they haue beene, and yet are charged, to be effected and brought to paſſe by a new inuention of them, the ſaid Sir <hi>Iohn Brooke</hi> and <hi>Thomas Ruſſell,</hi> And of their abilities to performe the ſame, they then gaue both to Our ſelfe and to the ſaid Lords Spirituall and Tem<g ref="char:EOLhyphen"/>rall good probability, and haue ſithence made ſufficient and demonſtratiue proofe thereof.</p>
+            <p>And Wee haue beene graciouſly pleaſed by Our Letters Patents vnder the great Seale of <hi>England,</hi> bearing date the ſixe and twentieth day of Aprill laſt paſt, (in compenſation of their great paines and expence therein, and for encouragement of them, and all others to bend their ſtudies to ſo profitable and publique workes, to the defence and benefit of Vs and Our Subiects) to grant to them, the ſaid Sir <hi>Iohn Brooke</hi> and <hi>Thomas Ruſſell,</hi> the ſole Priuiledge of making Salt<g ref="char:EOLhyphen"/>peter, according to their ſaid new Inuention, for diuers yeeres yet to come, with addition of ſuch Priuiledges and ayde on Our behalfe, as the merit of ſo worthy an vndertaking iuſtly challengeth at Our hands, eſpecially for their ſupply of ſuch Requiſites, as ſhall bee therein neceſſary without charge to Our Subiects.</p>
+            <p>And now by their humble Petition they haue required none other aſſiſtance from Vs, but that they might by Our Royall authority be prouided of ſufficient quantities of Vrine, which will bee vſefull for them to the extracting &amp; making of Saltpeter, They the ſaid Sir <hi>Iohn Brooke</hi> and <hi>Tho<g ref="char:EOLhyphen"/>mas Ruſſell,</hi> &amp; their aſſignes, at their charges carrying away the ſaid Vrine, at due and conuenient times, from the ſeuerall places where the ſame ſhall be ſaued for their vſe, vnto the place, or places where they ſhall haue occaſion to vſe the ſame; Which their humble Suite, Wee hauing taken into Our ſerious and Princely conſideration, haue thought fit, in a caſe of ſo great conſequence, and for the redeeming of ſo great and continuall a charge and trouble, to Our louing Subiects to grant the ſame.</p>
+            <p>And therefore Wee doe hereby publiſh and declare Our Royall pleaſure to bee, and Wee doe ſtrictly charge and command all and euery of Our Subiects, inhabiting within Our Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> and the Suburbes of either of them, with the Borough of <hi>South<g ref="char:EOLhyphen"/>warke</hi> and all other places of the ſaid Cities, and ſuburbes, aſwell within liberties as without (neare vnto which, the ſaid Sir <hi>Iohn Brooke</hi> and <hi>Thomas Ruſſell,</hi> haue already erected a worke for the making of Salt-peter,) and alſo all other Our louing Subiects inhabiting within all and eue<g ref="char:EOLhyphen"/>ry other Cities, Townes, and Villages, within this Our Realme of <hi>England,</hi> That they and e<g ref="char:EOLhyphen"/>uery
+<pb facs="tcp:28606:3"/>of them, from and after notice giuen vnto them ſeuerally and reſpectiuely, or left for them at their dwelling houſes, ſhall carefully and conſtantly keepe and preſerue, in ſome conuenient veſſells, or receptacles fit for that purpoſe, All the Vrine of man during the whole yeere, and all the State of Beaſtes, which they can ſaue, and gather together, whileſt their Beaſtes are in their ſtables or ſtalles; And that they be carefull to vſe the beſt meanes they may, for the ſauing, gathering together, and preſeruing of the ſaid Vrine and Stale, without any mixture of water, or other things to bee put therein; Which Our Commandement and Royall pleaſure, being ſo eaſie to be obſerued, and ſo neceſſary for the publique ſeruice of Vs, and Our people, We expect and ſtraitly charge, ſhall be duely and carefully obſerued and performed; And if any perſon ſhall be remiſſe or negligent in the due obſeruance hereof, We ſhall eſteeme of all ſuch as perſons contemptuous and ill affected both to Our Perſon and State, and are reſolued to proceede to the puniſhment of euery ſuch offender, with that ſeuerity which by the Lawes of this Realme, or by Our Prerogatiue Royall Wee may.</p>
+            <p>Neuertheleſſe, Our will and pleaſure is, That no perſon ſhall incurre any contempt concer<g ref="char:EOLhyphen"/>ning the premiſſes, vnleſſe notice be firſt giuen, or left vnto or for him or her, as aforeſaid, by the Conſtable or Headborough of that pariſh or place where ſuch perſon dwelleth or inhabiteth, and vnleſſe the ſaid Sir <hi>Iohn Brooke,</hi> &amp; <hi>Thomas Ruſſell,</hi> or their aſſignes, do once in euery foure &amp; twenty houres in the Summer time, (that is to ſay) from the firſt of April, vntill the firſt day of October, and once in euery eight and fourtie houres in the Winter time, (that is to ſay) from the firſt of October, vntill the firſt of Aprill in euery yeere, carie away the ſame from thoſe places where the ſame ſhall bee ſo preſerued for them: And therefore Wee doe hereby require and command all Conſtables and Headboroughs, That they and euery of them, vpon requeſt made to them or any of them by the ſayd, Sir <hi>Iohn Brooke</hi> and <hi>Thomas Ruſſell,</hi> or their aſſignes, be aiding, aſſiſting, and diligent in the execution of Our pleaſure herein before declared, as they and euery of them will anſwere the contrary at their perils.</p>
+            <closer>
+               <dateline>
+                  <hi>Giuen at Our Court at Whitehall,</hi> 
+                  <date>
+                     <hi>the ſecond day of Ianuarie, in the ſecond yeere of Our Reigne of Great Britaine, France, and Ireland.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Bonham Norton and Iohn Bill, Printers to the Kings moſt Excellent Maieſtie. M.DC.XXVI.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
